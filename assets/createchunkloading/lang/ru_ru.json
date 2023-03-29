@@ -1,0 +1,15 @@
+﻿{
+  "block.createchunkloading.dynamo": "Стресс из Динамо",
+  "block.createchunkloading.motor": "Перегруженный двигатель",
+  "block.createchunkloading.rolling_machine": "Прокатная машина",
+  "block.createchunkloading.chunk_loader": "Загрузчик чанков",
+  "block.createchunkloading.ender_crate": "Передвижной ящик Эндера",
+  "block.createchunkloading.brass_pressure_plate": "Латунная прижимная пластина",
+  "block.createchunkloading.copper_pressure_plate": "Медная прижимная пластина",
+  "block.createchunkloading.zinc_pressure_plate": "Цинковая прижимная пластина",
+  "death.attack.createchunkloading.dynamo": "%1$s был забит до смерти Stressed Out Dynamo",
+  "death.attack.createchunkloading.motor": "%1$s был забит до смерти Stressed Out Motor",
+  "itemGroup.createchunkloading.blocks_tab": "Создание блоков загрузки чанков",
+  "createchunkloading.category.rolling": "Роллинг",
+  "createchunkloading.generic.ender_id": "Эндер ID"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "itemGroup.travelanchors": "Якоря для путешествий",
+  "item.travelanchors.travel_staff": "Туристический персонал",
+  "enchantment.travelanchors.range": "Диапазон",
+  "enchantment.travelanchors.range.desc": "Увеличивает дальность телепортации с каждым уровнем",
+  "enchantment.travelanchors.teleportation": "Телепортация",
+  "enchantment.travelanchors.teleportation.desc": "Применяет способность телепортации к другим инструментам, кроме Travel Staff.",
+  "block.travelanchors.travel_anchor": "Якорь для путешествий",
+  "screen.travelanchors.travel_anchor": "Якорь для путешествий",
+  "screen.travelanchors.search": "Поиск",
+  "screen.travelanchors.nameless": "Введите имя, чтобы использовать его",
+  "tooltip.travelanchors.travel_anchor_block": "Посмотрите на это с Посохом для путешествий или зачарованием Телепортации для телепортации.",
+  "tooltip.travelanchors.travel_staff": "Скрытность + щелчок правой кнопкой мыши, чтобы телепортироваться на короткое расстояние.Посмотрите на Travel Anchor для деформации.",
+  "travelanchors.tp.success": "Телепортирован в %s.",
+  "travelanchors.tp.fail": "Якорь для путешествий не найден.",
+  "travelanchors.hop.fail": "Пункт назначения заблокирован.",
+  "travelanchors.lock.button": "Замок",
+  "travelanchors.lock.locked": "Этот якорь теперь заблокирован.",
+  "travelanchors.lock.unlocked": "Этот якорь больше не заблокирован.",
+  "travelanchors.lock.interact": "Этот якорь заблокирован.Щелкните правой кнопкой мыши палкой, чтобы разблокировать."
+}

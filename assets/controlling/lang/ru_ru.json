@@ -1,0 +1,13 @@
+{"options.search":"Искать:", 
+"options.showAll":"Назад", 
+"options.showConflicts":"Покакать конфликты", 
+"options.showNone":"Показать пустые", 
+"options.availableKeys":"Доступные клавиши", 
+"options.sort":"Сортировать", 
+"options.category":"категориям назначений", 
+"options.key":"названиям клавиш", 
+"options.sortNone":"Нет", 
+"options.sortAZ":"А → Я", 
+"options.sortZA":"Я → А", 
+"options.toggleFree":"Свобод. кл.", 
+"options.confirmReset":"Подтвердить?"}

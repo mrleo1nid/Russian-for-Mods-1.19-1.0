@@ -1,0 +1,21 @@
+﻿{
+  "block.oceansdelight.guardian_soup": "Суп Хранителя",
+  "item.oceansdelight.baked_tentacle_on_a_stick": "Запеченное щупальце на палочке",
+  "item.oceansdelight.bowl_of_guardian_soup": "Чаша супа стража",
+  "item.oceansdelight.braised_sea_pickle": "Тушеный морской огурец",
+  "item.oceansdelight.cabbage_wrapped_elder_guardian": "Завернутый в капусту старший страж",
+  "item.oceansdelight.cooked_elder_guardian_slice": "Приготовленный кусок старшего стража",
+  "item.oceansdelight.cooked_guardian_tail": "Приготовленный Хвост Хранителя",
+  "item.oceansdelight.cut_tentacles": "Вырезать щупальца",
+  "item.oceansdelight.elder_guardian_roll": "Свиток старшего стража",
+  "item.oceansdelight.elder_guardian_slab": "Плита старшего стража",
+  "item.oceansdelight.elder_guardian_slice": "Кусок старшего стража",
+  "item.oceansdelight.fugu_roll": "Фугу Ролл",
+  "item.oceansdelight.fugu_slice": "фугу ломтик",
+  "item.oceansdelight.guardian": "Страж",
+  "item.oceansdelight.guardian_tail": "Хвост Хранителя",
+  "item.oceansdelight.squid_rings": "Кольца кальмара",
+  "item.oceansdelight.tentacle_on_a_stick": "Щупальце на палке",
+  "item.oceansdelight.tentacles": "щупальца",
+  "itemGroup.oceansdelight": "Восторг океана"
+}

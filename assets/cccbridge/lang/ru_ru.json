@@ -1,0 +1,10 @@
+﻿{
+  "block.cccbridge.source_block": "Исходный блок",
+  "block.cccbridge.target_block": "Целевой блок",
+  "block.cccbridge.redrouter_block": "Блок RedRouter",
+  "block.cccbridge.scroller_block": "Панель прокрутки",
+  "cccbridge.display_source.source_block_display_source": "Данные с компьютера",
+  "cccbridge.general.unit.scroller": "Малый номер Lua",
+  "subtitles.cccbridge.cage_lock": "Скроллер заблокирован",
+  "subtitles.cccbridge.cage_unlock": "Скроллер разблокирован"
+}
